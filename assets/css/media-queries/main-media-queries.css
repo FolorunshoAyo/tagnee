@@ -192,8 +192,13 @@
     .product-info-container{
         margin: 50px 0;
     }
+
     .user-details{
         border: none;
+    }
+
+    .text-container{
+        margin-top: 20px;
     }
 } 
 
@@ -390,7 +395,8 @@
         margin-bottom: 50px;
     }
 
-    .success-container{
+    .success-container,
+    .box{
         flex: 0 0 90%;
     }
 }

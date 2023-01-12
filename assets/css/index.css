@@ -12,12 +12,17 @@ header{
 .logo-container{
     text-decoration: none;
     display: flex;
+    align-items: center;
     flex: 0 0 20%;
 }
 
 .logo-image-container{
-    flex: 0 0 50px;
-    align-self: center;
+    flex: 0 0 60px;
+    margin-right: 5px;
+}
+
+.logo-image-container img{
+    width: 100%;
 }
 
 .logo-text{
